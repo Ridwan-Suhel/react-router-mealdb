@@ -1,0 +1,11 @@
+.single-box {
+  background: #333;
+  color: #fff;
+  border-radius: 7px;
+  padding: 10px;
+}
+.single-box img {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+}
